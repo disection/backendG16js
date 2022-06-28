@@ -1,0 +1,11 @@
+{
+  "name": "module_backend",
+  "version": "1.0.0",
+  "description": "Module backend g19js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "disection",
+  "license": "ISC"
+}
